@@ -4441,3 +4441,4 @@ Script Stack (0 frames):
 [2023.10.05-15.47.30:993][319]LogContentValidation: Display: Validating BP_GoldShield_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_GoldShield_C_UAID_309C23E15CCBC6AF01_1458085811
 [2023.10.05-15.47.30:993][319]LogContentValidation: Display: Validating BP_HealthMedium_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_HealthMedium_C_UAID_309C23E15CCBC7AF01_1300923989
 [2023.10.05-15.47.30:993][319]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Collectibles/Health/BP_HealthMax.BP_HealthMax
+[2023.10.05-15.48.54:103][677]LogDerivedDataCache: C:/Users/Aidan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.315 and deleted 0 file(s) with total size 0 MiB.
